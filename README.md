@@ -5,7 +5,7 @@ A hand-gesture-based driving simulator using OpenCV, MediaPipe, and pynput. Cont
 ---
 <p float="left">
   <img src="https://github.com/LuizAlencar17/webcam-game-controller-v2/blob/main/images/1.gif" width="45%" />
-  <img src="https://github.com/LuizAlencar17/webcam-game-controller-v2/blob/main/images/1.gif" width="45%" />
+  <img src="https://github.com/LuizAlencar17/webcam-game-controller-v2/blob/main/images/2.gif" width="45%" />
 </p>
 
 ## ✨ Features
