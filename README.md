@@ -3,6 +3,10 @@
 A hand-gesture-based driving simulator using OpenCV, MediaPipe, and pynput. Control your favorite driving games with just your hands! 🖐️🕹️
 
 ---
+<p float="left">
+  <img src="https://github.com/LuizAlencar17/webcam-game-controller-v2/blob/images/1.gif" width="45%" />
+  <img src="https://github.com/LuizAlencar17/webcam-game-controller-v2/blob/images/1.gif" width="45%" />
+</p>
 
 ## ✨ Features
 - 👐 Detects two hands and simulates steering and acceleration.

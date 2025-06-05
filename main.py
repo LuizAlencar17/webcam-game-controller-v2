@@ -7,8 +7,8 @@ import numpy as np
 
 # Constants for steering wheel and control thresholds
 STEERING_WHEEL_RADIUS = 80  # Radius of the virtual steering wheel
-STEERING_THRESHOLD = 15     # Minimum angle to trigger left/right turn
-MAX_STEERING_ANGLE = 20     # Maximum steering angle allowed
+STEERING_THRESHOLD = 15  # Minimum angle to trigger left/right turn
+MAX_STEERING_ANGLE = 20  # Maximum steering angle allowed
 
 
 def main():
