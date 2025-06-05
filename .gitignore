@@ -65,20 +65,6 @@ Desktop.ini
 .env
 .env.*
 
-# Ignore audio/video/image/test data
-*.wav
-*.mp3
-*.mp4
-*.avi
-*.mov
-*.jpg
-*.jpeg
-*.png
-*.bmp
-*.gif
-*.tiff
-*.webp
-
 # Ignore test output
 *.out
 *.tmp
